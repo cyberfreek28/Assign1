@@ -1,1 +1,3 @@
 this is new file of branch b2
+hello this is updated file from other branch 
+another update is here on b2 file
